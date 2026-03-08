@@ -1,4 +1,4 @@
-#!/usr/binser/env python3
+#!/usr/bin/env python3
 """
 每日AI新闻推送脚本
 通过OpenClaw发送到飞书
