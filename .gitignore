@@ -1,0 +1,13 @@
+# 敏感信息文件
+.env
+*.key
+*.secret
+*password*
+
+# 已发送新闻记录（可选）
+# .sent-news.json
+
+# 临时文件
+*.tmp
+*.log
+.DS_Store
